@@ -1,0 +1,2 @@
+# SENAI
+ exercicios da aula
